@@ -1,4 +1,4 @@
 mkdir -p out
 rm -f out/unifont.ttf
-hex2otf hex=unifont.hex out=out/unifont.ttf format=truetype,gpos,gsub
+hex2otf hex=unifont.hex out=out/unifont.ttf format=truetype,bitmap
 echo Done.
