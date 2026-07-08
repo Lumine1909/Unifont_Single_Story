@@ -1,11 +1,11 @@
-# Unifont Single Story
+# Unifont Single Storey
 
 A Unifont variant with better-looking 'a', 'g', and 'y' characters.
 
 
 ### Modify and Build
 
-1. Clone this repo `git clone https://github.com/Lumine1909/Unifont_Single_Story.git`.
+1. Clone this repo `git clone https://github.com/Lumine1909/Unifont_Single_Storey.git`.
 
 2. Open wsl, execute `./setup`.
 
